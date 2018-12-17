@@ -1,4 +1,4 @@
-###### Developed by Md Ajraf Rakib ######
+### Developed by Md Ajraf Rakib ###
 import urllib2
 import glob, os, sys, os.path
 import argparse
